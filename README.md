@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, hello, 안녕하세요 ~ ^^
+
+I am a self-taught developer with a background in linguistics and language education. While I love teaching, the burnout is real and the past year or two I've been slowly building my skills one project at a time. Combining my hobbies with tech is the most facinating way I've found to develop my understanding of software languages, data analytics, and to create things that can help other makers and creatives like me. 🧶👩🏼‍💻 (And to also get out of the winding tutorial rabbit hole I was getting sucked into). 
+
+I am currently in the process of building out my first responsive website/blog from scratch! Still trying to sort out how to add a CRM to my site to host a regular blog. I'm looking forward to having a space of my own to document my WIPS (fiber-wise and code-wise hehe) so feel free to meander over there and to follow me on any of my socials! 
+
+the website/blog/portfolio thing: (https://allison-writes-code.vercel.app/index.html)
+the linkedin: (https://www.linkedin.com/in/allisonrm/)
+the 'gram: (https://www.instagram.com/allisontravelshere/)
+
 
 <!--
 **alli94/alli94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
