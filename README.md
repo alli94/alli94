@@ -5,7 +5,9 @@ I am a self-taught developer with a background in linguistics and language educa
 I am currently in the process of building out my first responsive website/blog from scratch! Still trying to sort out how to add a CRM to my site to host a regular blog. I'm looking forward to having a space of my own to document my WIPS (fiber-wise and code-wise hehe) so feel free to meander over there and to follow me on any of my socials! 
 
 the website/blog/portfolio/wip: [Allison Writes Code](https://allison-writes-code.vercel.app/index.html)
+
 [the linkedin](https://www.linkedin.com/in/allisonrm/)
+
 [the 'gram](https://www.instagram.com/allisontravelshere/)
 
 
