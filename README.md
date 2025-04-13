@@ -8,7 +8,7 @@ the website/blog/portfolio/wip: [Allison Writes Code](https://allison-writes-cod
 
 [the linkedin](https://www.linkedin.com/in/allisonrm/)
 
-[the 'gram](https://www.instagram.com/allisontravelshere/)
+[the 'gram](https://www.instagram.com/__andmake/)
 
 
 <!--
